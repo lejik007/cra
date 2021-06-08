@@ -2,12 +2,12 @@ export default function InfoBlockPERT() {
     return (
         <div>
             <h1>PERT-диаграммы</h1>
-            <p>На данном сайте любой пользователь может наметить себе <b>цель</b>.
+            <p className="regular-text">На данном сайте любой пользователь может наметить себе <b>цель</b>.
                 Путь к достижению навыбранной цели можно разбить на малые <b>задачи</b>.
                 Для построения пути данный сайт поможет использовать PERT-диаграмму.
             </p>
-            <p>
-                <a href="https://ru.wikipedia.org/wiki/PERT">Program (Project) Evaluation and Review Technique
+            <p className="regular-text">
+                <a className="regular-text__exile" href="https://ru.wikipedia.org/wiki/PERT">Program (Project) Evaluation and Review Technique
                     (сокращённо PERT)</a> — метод оценки и анализа проектов, который используется в управлении
                 проектами. PERT предназначен для очень масштабных, единовременных, сложных, нерутинных проектов.
                 Метод подразумевает наличие неопределённости, давая возможность разработать рабочий график проекта

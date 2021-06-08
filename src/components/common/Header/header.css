@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+}
+
+.main-navigation__menu_color {
+    color: darkgreen;
+    text-align: justify;
+    font-size: 14pt;
+    font-family: "Times New Roman", serif;
+}
+
+.main-navigation__menu {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    font-family: "Comic Sans MS", serif;
+    background-color: #2B292F;
+    border-radius: 15px;
+    border: 1px solid #000000;
+}
