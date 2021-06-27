@@ -9,6 +9,10 @@
     font-family: "Times New Roman", serif;
 }
 
+.main-navigation__menu_color_NavLink{
+    color: darkolivegreen;
+}
+
 .main-navigation__menu {
     display: flex;
     justify-content: space-around;
